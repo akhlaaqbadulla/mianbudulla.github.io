@@ -1,4 +1,6 @@
 # mianbudulla.github.io
-mon cv
-its and online cv theme which i repurpose for my use.
-The css needs alot of cleaning as alot of the modules in like contact form and search etc has been removed.
+This is a project which i have been working on for long. the theme is partly repurpose code from a theme i like.
+i will be using this to showcase my project and work.
+ if you want to use it you are more the welcome to download and pull there is nothing to hide here.
+
+keep up the good work cheers.
